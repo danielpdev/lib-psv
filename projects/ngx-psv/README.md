@@ -1,11 +1,11 @@
 
 # lib-psv([demo](https://codesandbox.io/s/035l7v1zmn))
 
-> Superb password strength visualization for Angular 6.
+> Superb password strength visualization for Angular 7.
 
 ![Demo](https://raw.githubusercontent.com/danielpdev/lib-psv/master/lib-psv.gif)
 
-This is a Angular 6 directive used as port of an awesome [Codrops Article](https://tympanus.net/codrops/2018/04/18/password-strength-visualization/) by [Mary Lou](https://tympanus.net/codrops/author/crnacura/) (original [source](https://github.com/codrops/PasswordStrengthVisualization/)).
+This is a Angular 7 directive used as port of an awesome [Codrops Article](https://tympanus.net/codrops/2018/04/18/password-strength-visualization/) by [Mary Lou](https://tympanus.net/codrops/author/crnacura/) (original [source](https://github.com/codrops/PasswordStrengthVisualization/)).
 
 ## Install
 
